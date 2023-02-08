@@ -1,5 +1,7 @@
 email: jon@rafkind.com
 
+Sponsorship: https://github.com/sponsors/kazzmir
+
 A few repos of mine:
 
 https://github.com/kazzmir/paintown 2-d beatem-up game
